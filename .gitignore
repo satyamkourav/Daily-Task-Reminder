@@ -1,0 +1,9 @@
+# Ignore environment variables file
+.env
+
+# Ignore Gemfile.lock (optional, but might be preferred in some cases)
+Gemfile.lock
+
+# Ignore any temporary files or logs
+*.log
+.bundle
