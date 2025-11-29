@@ -1,0 +1,5 @@
+# Gemfile
+source 'https://rubygems.org'
+
+gem 'mail', '~> 2.8'
+gem 'dotenv', '~> 2.7'
