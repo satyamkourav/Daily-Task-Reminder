@@ -12,7 +12,7 @@ mail_body_text = ""
 
 # List of names in the order they should appear
 
-names = ["name1", "name2"]
+names = ["name1", "name2", "name3"]
 
 
 # Hash to store files name and person name
